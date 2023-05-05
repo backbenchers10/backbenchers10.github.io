@@ -1,0 +1,138 @@
+*{
+  margin: 0px;
+  text-decoration: none;
+}
+
+header{
+  padding: 30px;
+  text-align: center;
+  background-color: deepskyblue;
+}
+header h1{
+  font-size: 40px;
+}
+
+nav{
+  background-color: #333;
+  overflow: hidden;
+}
+
+nav a{
+  display: block;
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+  float: left;
+  font-style: bold 700;
+}
+
+.nav a:hover {
+  background-color: skyblue;
+}
+
+.body{
+  padding: 50px 50px;
+  display: block;
+ 
+}
+.maths
+{
+  width: 10%;
+  height: 10%;
+  border: 10px solid red;
+  padding: 10px;
+  margin: 20px;
+  background-color: orange;
+  line-height: 50px;
+}
+
+.sst
+{
+  width: 12%;
+  border: 10px solid red;
+  padding: 20px;
+  margin: 20px;
+  background-color: orange;
+ line-height: 100px;
+  
+}
+
+.hindi
+{
+  width: 12%;
+  border: 10px solid red;
+  padding: 20px;
+  margin: 20px;
+  background-color: orange;
+  line-height: 90px;
+}
+
+.flight
+{
+  width: 12%;
+  border: 10px solid red;
+  padding: 20px;
+  margin: 20px;
+  background-color: orange;
+  line-height: 100px;
+}
+
+.footprints
+{
+  width: 50px;
+  border: 10px solid red;
+  padding: 20px;
+  margin: 20px;
+  background-color: orange;
+  line-height: 90px;
+}
+
+.chem
+{
+  width: 12%;
+  border: 10px solid red;
+  padding: 20px;
+  margin: 20px;
+  background-color: orange;
+  line-height: 90px;
+}
+
+.bio
+{
+  width: 12%;
+  border: 10px solid red;
+  padding: 20px;
+  margin: 20px;
+  background-color: orange;
+  line-height: 90px;
+}
+
+.phy
+{
+  width: 12%;
+  border: 10px solid red;
+  padding: 20px;
+  margin: 20px;
+  background-color: orange;
+  line-height: 90px;
+}
+
+
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+footer {
+  margin-top: auto;
+  background-color: #333;
+  padding: 20px;
+  text-align: center;
+  
+  
+}
+footer h2 {
+   color: white;
+ }
