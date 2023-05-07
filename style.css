@@ -35,16 +35,17 @@ nav a{
   display: block;
 }
 
-.work
-{
-  width: 50%;
+.bencher{
+width: 40%;
+  height: 10%;
   border: 10px solid red;
   padding: 20px;
   margin: 20px;
   background-color: orange;
-  line-height: 60px;
+  line-height: 50px;
+  position: relative;
+  top: 50px;
 }
-
 
 
 body {
