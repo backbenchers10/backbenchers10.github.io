@@ -1,0 +1,44 @@
+*{
+  margin: 0px;
+}
+
+header{
+  padding: 30px;
+  text-align: center;
+  background-color: deepskyblue;
+}
+header h1{
+  font-size: 40px;
+}
+
+nav{
+  background-color: #333;
+  overflow: hidden;
+}
+
+a{
+  display: block;
+  color: black;
+  text-decoration: none;
+  padding: 5%;
+  margin: 10px;
+  float: left;
+  font-style: bold 700;
+  overflow: hidden;
+  text-align: center;
+}
+
+a:hover {
+  background-color: skyblue;
+}
+
+.chem1{
+width: 70%;
+  height: 10%;
+  border: 10px solid red;
+  padding: 10px;
+  margin: 20px;
+  background-color: orange;
+  line-height: 50px;
+}
+
