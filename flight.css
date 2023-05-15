@@ -40,7 +40,7 @@ nav a{
   top:10px;
  
 }
-.maths
+.lencho
 {
   border: 10px solid red;
   padding: 10px;
@@ -53,8 +53,8 @@ nav a{
   border-radius: 20px
 }
 
-.sst
-{
+.editor
+ {
   border: 10px solid red;
   padding: 10px;
   margin: 20px;
@@ -65,22 +65,20 @@ nav a{
   font-size: 17px;
   border-radius: 20px
 }
-.hindi
+.nelson
 {
-  width: 12%;
+  width: 85px;
   border: 10px solid red;
   padding: 20px;
   margin: 20px;
   background-color: orange;
-  line-height: 5px;
+  line-height: 20px;
   position: relative;
-  bottom: 95px;
-  left: 30px;
   font-size: 17px;
   border-radius: 20px
 }
 
-.flight
+.dust
 {
   width: 30%;
   border: 10px solid red;
@@ -92,7 +90,7 @@ nav a{
   border-radius: 20px
 }
 
-.footprints
+.fire
 {
   width: 30%;
   border: 10px solid red;
@@ -105,17 +103,14 @@ nav a{
   
 }
 
-.chem
+.zoo
 {
-  width: 20%;
+  width: 25%;
   border: 10px solid red;
   padding: 20px;
   margin: 20px;
   background-color: orange;
-  line-height: 10px;
-  position: relative;
-  bottom: 120px;
-  left: 10px;
+  line-height: 20px;
   font-size: 17px;
   border-radius: 20px
   
@@ -132,8 +127,6 @@ nav a{
   font-size: 17px;
   border-radius: 20px;
   position: relative;
-  left: 210px;
-  bottom: 115px;
 }
 
 .phy
@@ -147,8 +140,6 @@ nav a{
   font-size: 17px;
   border-radius: 20px;
   position: relative;
-  left: 50px;
-  bottom: 340px;
 }
 
 footer {
