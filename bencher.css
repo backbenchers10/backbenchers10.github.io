@@ -1,8 +1,12 @@
 *{
   margin: 0px;
   text-decoration: none;
+  
 }
 
+a{
+  color: black;
+}
 header{
   padding: 30px;
   text-align: center;
@@ -150,6 +154,21 @@ nav a{
   left: 50px;
   bottom: 340px;
 }
+.lab
+{
+  width: 16%;
+  border: 10px solid red;
+  padding: 20px;
+  margin: 20px;
+  background-color: orange;
+  line-height: 5px;
+  font-size: 17px;
+  border-radius: 20px;
+  position: relative;
+  left: 0px;
+  bottom: 60px;
+}
+
 
 footer {
   margin-top: auto;
